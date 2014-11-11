@@ -22,6 +22,13 @@ class AreasController < ApplicationController
     @area = @w * @h
   end
 
+  def trapezoid
+    @a = params[:a].to_f
+    @b = params[:b].to_f
+    @vertical_height = params[:vertical_height].to_f
+    @area = 0.5 * (@a + @b) * @vertical_height
+  end
+
   def ellipse
     pi = 3.1416 # Close enough.
     @a = params[:a].to_f
