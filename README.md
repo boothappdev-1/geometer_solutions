@@ -33,7 +33,7 @@ Close/put away/don't use any messaging client, including but not limited to emai
 
 To turn in the exam, you must commit and sync your solutions back up to your fork on github.com. Verify in your browser at http://github.com/YOUR_ACCOUNT_NAME/geometer that the most recent version of your changes are live. **You must be signed in to GitHub.com to see the repository.**
 
-You will have 90 minutes to complete the exam, including this part and [Part 2](https://github.com/bus36110/best_of_everything). If you finish early, you may leave the classroom and resume your messaging clients (i.e., talk amongst yourselves, email, etc). However, **you must sign out with me before you leave**. While you are in the room, absolutely no email, chat, etc. Any changes made to your GitHub repository after your sign-out time will not count towards your grade.
+You will have 90 minutes to complete the exam, including this part and [Part 2](https://github.com/boothappdev/best_of_everything). If you finish early, you may leave the classroom and resume your messaging clients (i.e., talk amongst yourselves, email, etc). However, **you must sign out with me before you leave**. While you are in the room, absolutely no email, chat, etc. Any changes made to your GitHub repository after your sign-out time will not count towards your grade.
 
 ## Hints
 
@@ -44,5 +44,6 @@ You will have 90 minutes to complete the exam, including this part and [Part 2](
  - You don’t have to worry about CSS styling at all; just get the right content to show up for the right URL.
  - Use the server log to verify that URLs are being routed to the actions you think they are, and to see what is coming in to the `params` hash.
  - In your browser, don’t get confused between the target app (http://geometer.herokuapp.com) and your local app (http://localhost:3000). Make sure you are refreshing your own local app to test your work.
+ - Don't get stuck on any one thing for too long; move on and score easy points on the next problem.
 
 ## Good luck!
